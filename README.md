@@ -1,4 +1,4 @@
-# SPORTX-
+ 
 # SPORTX
 
 A production-ready sports e-commerce platform built to learn and demonstrate modern software engineering practices.
